@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0.0",
-  "downloadUrl": "https://github.com/KILLERV2/KILLAPK/releases/download/APK/KILLER_BOOKING_v1.0.apk",
-  "changelog": "⚡ KILLER BOOKING v1.0.0 Release:\n- Integrated License Key verification with HWID\n- Precision Tatkal (AC & SL) & General Timing Engine\n- In-App Auto Updater from GitHub\n- Anti-Bot Bypass on IRCTC & Auto UPI QR on Gateways"
+  "versionCode": 2,
+  "versionName": "1.1.0",
+  "downloadUrl": "https://github.com/KILLERV2/KILLAPK/releases/download/v1.1.0/KILLER_BOOKING_v1.1.apk",
+  "changelog": "⚡ KILLER BOOKING v1.1.0 Release:\n- Single SAVE TICKET button (killer.py replica)\n- Open Ticket Slot Manager with START, EDIT, DEL\n- Local IRCTC ID Vault with quick-add and bulk import\n- Speed & UI improvements"
 }
